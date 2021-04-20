@@ -13,18 +13,23 @@ I began by reading in the .csv file and using `pandas.DataFrame.describe()` and 
 - ~3% of customers defaulted on loans (low)
 - very high annual salary (average of $402k)  
 <br/>
+
 I did some basic feature engineering and created two new features:
 - Savings rate: the proportion of bank balance to annual salary
 - Reserve capacity: intended to reflect the ability to finance a loan with both income and existing bank balance  
 <br/>
-Next, I used `matplotlib` and `seaborn` to generate several visualizations of the data. Some of the most informative are shown below:
+
+Next, I used `matplotlib` and `seaborn` to generate several visualizations of the data. Some of the most informative are shown below:  
+<br/>
 Feature Distribution Histograms  
 ![](./Photos/Feature%20Dist.PNG)  
 <br/>
+
 Box Plots comparing customers who defaulted to customers who did not for each feature  
 ![](./Photos/Boxplots.PNG)  
 <br/>
-Pairplots and Scatter Matrix Comparing Each Figure
+
+Pairplots and Scatter Matrix Comparing Each Figure  
 ![](./Photos/Pairplot.PNG)  
 ![](./Photos/Scatter%20Matrix.PNG)
 
