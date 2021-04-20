@@ -1,5 +1,6 @@
 # Loan-default
-Prediction of loan default based on [data](https://www.kaggle.com/kmldas/loan-default-prediction) on 10,000 customers who took out loans, financial information, and whether they defaulted on the loans. Data retrieved from Kaggle
+Prediction of loan default based on [data](https://www.kaggle.com/kmldas/loan-default-prediction) on 10,000 customers who took out loans, financial information, and whether they defaulted on the loans. Data retrieved from Kaggle  
+[Full jupyter notebook](https://github.com/jmfinnegan12/Loan-default/blob/main/Loan%20Defaults.ipynb)
 
 ## Project Goals
 - Exploratory Data Analysis and Data Cleaning
